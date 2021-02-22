@@ -1,0 +1,1 @@
+-- run objects creation script
