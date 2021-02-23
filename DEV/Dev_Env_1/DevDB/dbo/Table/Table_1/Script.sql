@@ -8,6 +8,6 @@ CREATE TABLE [dbo].[Table_1] (
     [C7] NCHAR (10) NULL
 );
 
-
+-- comment 1
 GO
 
