@@ -4,14 +4,35 @@
       "GlobalData": {
         "ProjectName": "Demo",
         "DBTypeName": "SQL Server",
-        "Environments": null,
+        "Environments": [
+          {
+            "EnvironmentName": "Dev_Env_1",
+            "EnvironmentType": "DEV",
+            "Databases": [
+              {
+                "ProjectName": "Demo",
+                "EnvType": "DEV",
+                "EnvironmentName": "Dev_Env_1",
+                "DatabaseName": "DevDB",
+                "DBTypeName": "SQL Server"
+              }
+            ]
+          }
+        ],
         "SourceControlPathType": 0,
         "RepositoryDetails": null,
         "Configuration": {
           "BuildMigrationScriptAutomatically": false
         }
       },
-      "UserData": null
+      "UserData": [
+        {
+          "UserName": "dbmisrael",
+          "ConnectionStrings": {
+            "dev\\dev_env_1\\devdb": "Data Source=WIN-MP6V5RKH9R7;Initial Catalog=DevDB;Integrated Security=False;User ID=sa;Password=Luva4604"
+          }
+        }
+      ]
     }
   ]
 }
