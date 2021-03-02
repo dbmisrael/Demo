@@ -22,7 +22,7 @@
         "SourceControlPathType": 0,
         "RepositoryDetails": null,
         "Configuration": {
-          "BuildMigrationScriptAutomatically": false
+          "BuildMigrationScriptAutomatically": true
         }
       },
       "UserData": [
