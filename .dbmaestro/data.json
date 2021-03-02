@@ -13,7 +13,7 @@
                 "ProjectName": "Demo",
                 "EnvType": "DEV",
                 "EnvironmentName": "Dev_Env_1",
-                "DatabaseName": "DevDB",
+                "DatabaseAliasName": "DevDB",
                 "DBTypeName": "SQL Server"
               }
             ]
