@@ -39,6 +39,13 @@
           "ConnectionStrings": {
             "dev\\dev_env_1\\devdb": "Data Source=WIN-MP6V5RKH9R7;Initial Catalog=DevDB;Integrated Security=False;User ID=sa;Password=Luva4604"
           }
+        },
+        {
+          "UserName": "israelys",
+          "RepositoryCredentials": null,
+          "ConnectionStrings": {
+            "dev\\dev_env_1\\devdb": "Data Source=WIN-MP6V5RKH9R7;Initial Catalog=DevDB2;Integrated Security=False;User ID=sa;Password=Luva4604"
+          }
         }
       ]
     }
