@@ -1,0 +1,30 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectName": "Demo",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "RepositoryDetails": {
+          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
+          "RemoteRepositoryDirectory": "https://github.com/dbmisrael/Demo.git",
+          "BranchName": "master"
+        },
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": false
+        }
+      },
+      "UserData": [
+        {
+          "UserName": "dbmisrael",
+          "RepositoryCredentials": {
+            "UserName": "dbmisrael",
+            "Password": "X+OpaC/bSJ4KCJuu/lectBXdxGyD5L2TdmQTrATe5VR73CIZrwygX9aKOgB8gFBm"
+          },
+          "ConnectionStrings": {}
+        }
+      ]
+    }
+  ]
+}
