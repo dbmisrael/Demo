@@ -2,10 +2,10 @@
   "Column": [
     {
       "schem": "dbo",
-      "obj": "Table_10",
+      "obj": "Table_21",
       "type": "Table",
-      "object_id": 1317579732,
-      "name": "c1",
+      "object_id": 1413580074,
+      "name": "C1",
       "column_id": 1,
       "system_type_id": 239,
       "user_type_id": 239,
