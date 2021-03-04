@@ -21,7 +21,6 @@
         ],
         "SourceControlPathType": 0,
         "RepositoryDetails": {
-          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
           "RemoteRepositoryDirectory": "https://github.com/dbmisrael/Demo.git",
           "BranchName": "master"
         },
