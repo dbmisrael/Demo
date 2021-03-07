@@ -4,7 +4,21 @@
       "GlobalData": {
         "ProjectName": "Demo",
         "DBTypeName": "SQL Server",
-        "Environments": null,
+        "Environments": [
+          {
+            "EnvironmentName": "Dev_Env_1",
+            "EnvironmentType": "DEV",
+            "Databases": [
+              {
+                "ProjectName": "Demo",
+                "EnvType": "DEV",
+                "EnvironmentName": "Dev_Env_1",
+                "DatabaseAliasName": "DemoDB",
+                "DBTypeName": "SQL Server"
+              }
+            ]
+          }
+        ],
         "SourceControlPathType": 0,
         "RepositoryDetails": {
           "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
@@ -22,7 +36,9 @@
             "UserName": "dbmisrael",
             "Password": "X+OpaC/bSJ4KCJuu/lectBXdxGyD5L2TdmQTrATe5VR73CIZrwygX9aKOgB8gFBm"
           },
-          "ConnectionStrings": {}
+          "ConnectionStrings": {
+            "dev\\dev_env_1\\demodb": "Data Source=WIN-MP6V5RKH9R7;Initial Catalog=Demo1;Integrated Security=False;User ID=sa;Password=Luva4604"
+          }
         }
       ]
     }
