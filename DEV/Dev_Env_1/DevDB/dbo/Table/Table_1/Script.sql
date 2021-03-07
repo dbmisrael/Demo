@@ -9,7 +9,8 @@ CREATE TABLE [dbo].[Table_1] (
     [c8]  NCHAR (10) NULL,
     [c9]  NCHAR (10) NULL,
     [c10] NCHAR (10) NULL,
-    [c11] NCHAR (10) NULL
+    [c11] NCHAR (10) NULL,
+    [c12] NCHAR (10) NULL
 );
 
 
