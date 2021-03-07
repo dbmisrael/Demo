@@ -6,7 +6,8 @@ CREATE TABLE [dbo].[Table_1] (
     [c5] NCHAR (10) NULL,
     [c6] NCHAR (10) NULL,
     [c7] NCHAR (10) NULL,
-    [c8] NCHAR (10) NULL
+    [c8] NCHAR (10) NULL,
+    [c9] NCHAR (10) NULL
 );
 
 
