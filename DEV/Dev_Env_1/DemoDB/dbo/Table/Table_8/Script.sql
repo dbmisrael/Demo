@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[Table_6] (
+CREATE TABLE [dbo].[Table_2] (
     [c1] NCHAR (10) NULL
 );
 
