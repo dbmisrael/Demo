@@ -24,31 +24,6 @@
           "DatabasesData": []
         }
       ]
-    },
-    {
-      "GlobalData": {
-        "ProjectId": "de31aa7e-3f14-47e6-87f4-3f7a7a58e6e3",
-        "ProjectName": "DemoTests2",
-        "DBTypeName": "SQL Server",
-        "Environments": null,
-        "SourceControlPathType": 0,
-        "Configuration": {
-          "BuildMigrationScriptAutomatically": true,
-          "DBConfiguration": {},
-          "NumberOfRevisionsInViewHistory": 10,
-          "NumberOfTagsInBuildOptions": 10,
-          "PreventCommitObjectWithConflict": false,
-          "UseCache": null
-        },
-        "ProjectArchitecture": 1,
-        "LocalDirectory": "C:\\Users\\Administrator\\Documents\\DemoTests"
-      },
-      "UserData": [
-        {
-          "UserName": "israelys",
-          "DatabasesData": []
-        }
-      ]
     }
   ],
   "GlobalConfigurations": null
