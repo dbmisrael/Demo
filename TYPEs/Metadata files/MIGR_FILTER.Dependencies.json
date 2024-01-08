@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "NAMELIST",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "OBJECTIDLIST",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

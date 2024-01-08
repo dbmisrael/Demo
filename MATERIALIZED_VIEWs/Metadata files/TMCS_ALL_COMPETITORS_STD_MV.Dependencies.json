@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "TMCS_ALL_COMPETITORS_CONFIG",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ALL_COMPETITORS_CUST",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ALL_COMPETITORS_STD",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ALL_COMPETITORS_STD_MV",
+    "type": "TABLE"
+  }
+]

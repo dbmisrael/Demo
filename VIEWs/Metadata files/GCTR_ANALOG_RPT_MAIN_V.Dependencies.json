@@ -1,0 +1,27 @@
+[
+  {
+    "schema": "",
+    "name": "GCTR_SF_RPT_QUE_V",
+    "type": "VIEW"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SITE_SF_SNR",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SITES_B",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SITES_B_DETAIL",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_TRADEAREAS_SITES",
+    "type": "TABLE"
+  }
+]

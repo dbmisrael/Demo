@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "ANYDATA",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

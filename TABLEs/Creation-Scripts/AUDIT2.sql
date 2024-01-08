@@ -1,0 +1,4 @@
+CREATE TABLE AUDIT2
+   (	ID NUMBER
+   ) ;
+

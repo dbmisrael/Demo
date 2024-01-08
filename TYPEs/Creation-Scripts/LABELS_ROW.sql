@@ -1,0 +1,7 @@
+CREATE OR REPLACE EDITIONABLE TYPE LABELS_ROW AS OBJECT
+(
+    component_key VARCHAR2 (1000),
+    label_value VARCHAR2 (1000)
+);
+/
+

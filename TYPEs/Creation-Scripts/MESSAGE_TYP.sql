@@ -1,0 +1,4 @@
+CREATE OR REPLACE EDITIONABLE TYPE MESSAGE_TYP as object (
+msg_out     JSON);
+/
+

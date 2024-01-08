@@ -1,0 +1,27 @@
+[
+  {
+    "schema": "",
+    "name": "SDO_ELEM_INFO_ARRAY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "SDO_GEOMETRY",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "SDO_GEOMETRY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "SDO_ORDINATE_ARRAY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

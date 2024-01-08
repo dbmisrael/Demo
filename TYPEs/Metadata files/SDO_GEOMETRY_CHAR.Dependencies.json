@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "SDO_ELEM_INFO_ARRAY_CHAR",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "SDO_ORDINATE_ARRAY_CHAR",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

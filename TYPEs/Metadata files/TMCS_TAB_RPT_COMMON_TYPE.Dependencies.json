@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_OBJ_RPT_COMMON_TYPE",
+    "type": "TYPE"
+  }
+]

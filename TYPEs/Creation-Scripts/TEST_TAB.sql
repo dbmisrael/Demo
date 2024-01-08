@@ -1,0 +1,3 @@
+CREATE OR REPLACE EDITIONABLE TYPE TEST_TAB is table of tmcs.test_obj
+/
+

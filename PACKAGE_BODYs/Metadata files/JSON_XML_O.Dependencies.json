@@ -1,0 +1,37 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_LOB",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "JSON_LIST_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "JSON_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "JSON_VALUE_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "JSON_XML_O",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "XMLTYPE",
+    "type": "SYNONYM"
+  }
+]

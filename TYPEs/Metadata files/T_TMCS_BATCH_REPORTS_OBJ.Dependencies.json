@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_BATCH_REPORTS_OBJ",
+    "type": "TYPE"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_OUTPUT",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "DUAL",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_BK_SITE_INTF_PKG",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ENTITY_ENCROACHMENTS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_LOOKUP_TYPES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_LOOKUP_VALUES",
+    "type": "VIEW"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SITES_B",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_TARGETS_B",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "UTL_FILE",
+    "type": "SYNONYM"
+  }
+]

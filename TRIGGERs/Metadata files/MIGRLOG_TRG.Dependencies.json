@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "MD_META",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "MIGRLOG",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

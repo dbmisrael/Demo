@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "TMCS_LOOKUP_TYPES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_LOOKUP_VALUES_CUST",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_LOOKUP_VALUES_STD",
+    "type": "TABLE"
+  }
+]

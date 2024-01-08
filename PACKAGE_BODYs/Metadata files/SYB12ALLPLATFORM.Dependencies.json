@@ -1,0 +1,37 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_OUTPUT",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "DBMS_UTILITY",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "MIGRLOG",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "PLITBLM",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "SYB12ALLPLATFORM",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "UTL_RAW",
+    "type": "SYNONYM"
+  }
+]

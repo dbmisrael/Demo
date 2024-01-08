@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "TMCS_ENTITY_INTF_MAP_COLUMNS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ENTITY_INTF_MAP_HEADER",
+    "type": "TABLE"
+  }
+]

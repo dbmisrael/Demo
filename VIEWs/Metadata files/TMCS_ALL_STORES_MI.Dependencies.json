@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "SDO_GEOMETRY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ALL_STORES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_REGIONS",
+    "type": "TABLE"
+  }
+]

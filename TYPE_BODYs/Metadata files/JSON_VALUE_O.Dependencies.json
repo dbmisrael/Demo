@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "",
+    "name": "ANYDATA",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "DBMS_LOB",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "DBMS_STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "JSON_PRINTER_O",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "JSON_VALUE_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

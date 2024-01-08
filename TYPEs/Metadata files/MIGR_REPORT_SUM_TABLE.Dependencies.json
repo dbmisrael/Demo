@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "MIGR_REPORT_SUM_ROW",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

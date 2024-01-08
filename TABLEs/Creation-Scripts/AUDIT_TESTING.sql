@@ -1,0 +1,4 @@
+CREATE TABLE AUDIT_TESTING
+   (	ID NUMBER
+   ) ;
+

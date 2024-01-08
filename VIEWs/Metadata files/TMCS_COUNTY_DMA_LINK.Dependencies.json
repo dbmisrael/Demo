@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "SDO_GEOMETRY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_GEO_REGION_SUB_MARKETS",
+    "type": "TABLE"
+  }
+]

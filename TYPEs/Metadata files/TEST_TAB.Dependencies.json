@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TEST_OBJ",
+    "type": "TYPE"
+  }
+]

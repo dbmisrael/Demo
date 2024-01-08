@@ -1,0 +1,20 @@
+CREATE OR REPLACE EDITIONABLE TRIGGER TMCS_SITE_SF_CANNIBALIZED_TRG
+    BEFORE INSERT OR UPDATE
+    ON TMCS_SITE_SF_CANNIBALIZED
+    REFERENCING NEW AS n OLD AS o
+    FOR EACH ROW
+BEGIN
+    BEGIN
+--        IF (   :N.longitude IS NULL
+--            OR :N.latitude IS NULL) THEN
+--            raise_application_error(-20761, 'Lat/Long Cant be null');
+--        ELSE
+            SELECT SDO_GEOMETRY(2001,8307,SDO_POINT_TYPE(NVL(:N.longitude,0), NVL(:N.latitude,0), NULL),NULL,NULL)
+            INTO :N.GEOMETRY
+            FROM DUAL;
+--        END IF;
+    END;
+END;
+/
+ALTER TRIGGER TMCS_SITE_SF_CANNIBALIZED_TRG ENABLE;
+

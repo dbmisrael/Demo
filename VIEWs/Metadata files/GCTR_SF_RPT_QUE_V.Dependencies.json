@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "TMCS_SQ_ENTITY_ANSWERS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SQ_ENTITY_QUESTIONS",
+    "type": "TABLE"
+  }
+]

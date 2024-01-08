@@ -1,0 +1,45 @@
+CREATE OR REPLACE FORCE EDITIONABLE VIEW TMCS_SITES_B_INFOWINDOW1 (BRAND_ID, BRAND, SITE_ID, SITE_NAME, TARGET_ID, N_EXT_ATTR01, C_EXT_ATTR35, N_EXT_ATTR02, DMA, LONGITUDE, LATITUDE, ADDRESS, CITY, STATE, ZIP_CODE, GEOMETRY, N_EXT_ATTR1, N_EXT_ATTR2, N_EXT_ATTR3, N_EXT_ATTR4, N_EXT_ATTR5, N_EXT_ATTR6, N_EXT_ATTR7, N_EXT_ATTR8, N_EXT_ATTR9, N_EXT_ATTR10, N_EXT_ATTR11, N_EXT_ATTR12, N_EXT_ATTR13, N_EXT_ATTR14, N_EXT_ATTR15, N_EXT_ATTR16, N_EXT_ATTR17, N_EXT_ATTR18, N_EXT_ATTR19, N_EXT_ATTR20) AS
+  SELECT   a.brand_id AS BRAND_ID,
+            a.BRAND_ID AS Brand,
+            a.Site_ID,
+            a.Site_Name,
+            a.TARGET_ID,
+            a.N_EXT_ATTR01,
+            a.C_EXT_ATTR35,
+            a.N_EXT_ATTR02,
+            a.DMA,
+            a.LONGITUDE,
+            a.LATITUDE,
+            a.ADDRESS,
+            a.CITY,
+            a.STATE,
+            a.ZIP_CODE,
+            a.geometry,
+            b.N_EXT_ATTR1,
+            b.N_EXT_ATTR2,
+            b.N_EXT_ATTR3,
+            b.N_EXT_ATTR4,
+            b.N_EXT_ATTR5,
+            b.N_EXT_ATTR6,
+            b.N_EXT_ATTR7,
+            b.N_EXT_ATTR8,
+            b.N_EXT_ATTR9,
+            b.N_EXT_ATTR10,
+            b.N_EXT_ATTR11,
+            b.N_EXT_ATTR12,
+            b.N_EXT_ATTR13,
+            b.N_EXT_ATTR14,
+            b.N_EXT_ATTR15,
+            b.N_EXT_ATTR16,
+            b.N_EXT_ATTR17,
+            b.N_EXT_ATTR18,
+            b.N_EXT_ATTR19,
+            b.N_EXT_ATTR20
+     FROM   tmcs.tmcs_sites_B a,
+            tmcs.TMCS_TARGETS_B c,
+            tmcs.tmcs_tradeareas_sites b
+    WHERE       a.site_id = b.site_id
+            AND c.target_id = a.target_id
+            AND b.current_status = 'TRUE'
+            AND A.SITE_ID < 5 ;
+

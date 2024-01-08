@@ -1,0 +1,42 @@
+[
+  {
+    "schema": "",
+    "name": "DUAL",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "MIGR_REPORT_DETAIL_ROW",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "MIGR_REPORT_DETAIL_TABLE",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "MIGR_REPORT_SUM_ROW",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "MIGR_REPORT_SUM_TABLE",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "MIGRATION_REPORT",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "MIGRLOG",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

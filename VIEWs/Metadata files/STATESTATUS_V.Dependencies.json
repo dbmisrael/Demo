@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "TMCS_ENTITY_STATUSES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_STATES",
+    "type": "TABLE"
+  }
+]

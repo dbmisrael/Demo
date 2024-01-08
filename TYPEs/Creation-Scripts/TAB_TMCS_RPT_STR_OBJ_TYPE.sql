@@ -1,0 +1,3 @@
+CREATE OR REPLACE EDITIONABLE TYPE TAB_TMCS_RPT_STR_OBJ_TYPE as table of tmcs_rpt_str_obj_type;
+/
+

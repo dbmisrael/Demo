@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "TMCS_ANALOG_RESULTS_COMMENTS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ANALOG_RESULTS_PIVOT",
+    "type": "TABLE"
+  }
+]

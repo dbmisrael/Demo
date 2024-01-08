@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "MIGRATION_RESERVED_WORDS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "MIGRATION_TRANSFORMER",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

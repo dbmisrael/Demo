@@ -1,0 +1,47 @@
+[
+  {
+    "schema": "",
+    "name": "DUAL",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "SDO_ELEM_INFO_ARRAY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "SDO_GEOMETRY",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "SDO_GEOMETRY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "SDO_ORDINATE_ARRAY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "SDO_POINT_TYPE",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "SDO_POINT_TYPE",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SITE_SF_CANNIBALIZED",
+    "type": "TABLE"
+  }
+]

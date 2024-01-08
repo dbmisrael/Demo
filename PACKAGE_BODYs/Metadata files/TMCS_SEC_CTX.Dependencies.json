@@ -1,0 +1,77 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_SESSION",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "DUAL",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_CLIENT_BRANDS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_CLIENT_COUNTRIES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_CLIENT_USERS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_CLIENTS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_GLOB_BRAND_ACCESS_TMP",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_GLOB_REGION_ACCESS_TMP",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_REGIONS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SEC_CTX",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_USER_BRANDS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_USER_REGIONS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_USER_SESSION_INFO",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_USERS",
+    "type": "TABLE"
+  }
+]

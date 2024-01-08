@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_AQ_EVENT_TYP",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_AQ_EVENT_TYP",
+    "type": "TYPE"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "SDO_GEOMETRY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ANALOG_SITE_TA",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SITES_B",
+    "type": "TABLE"
+  }
+]

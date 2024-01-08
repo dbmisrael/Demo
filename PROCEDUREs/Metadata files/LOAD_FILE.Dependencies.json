@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_LOB",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "DEMO_RPT_VAR_OBJ",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

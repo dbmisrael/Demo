@@ -1,0 +1,137 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_OUTPUT",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "DBMS_UTILITY",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "MIGRATE_CLIENT_MAP_MENU_TEST",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "PLITBLM",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "STYLE",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_ALL_COMPETITORS_CONFIG",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_CLIENT_KEY_METRICS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_CLIENT_TA_CONFIG",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_DEMO_RPT_VINTAGE",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_GIS_CLIENT_COUNTRY_SETUP",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_GIS_CLIENT_SETUP",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_GIS_ERROR_CODES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_GIS_FUNCTIONALITY_SETUP",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MAP_FORMS_CONFIG",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MAP_INFO_WINDOW_CLAUSES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MAP_INFO_WINDOW_DETAILS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MAP_INFO_WINDOW_FIELDS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MAP_INFO_WINDOW_TABNAMES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MAP_INFO_WINDOW_TABS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MAP_MENU_HEADERS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MODEL_CALC_TEMPLATES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MODEL_DEMOG_TEMPLATES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_MODEL_TEMPLATES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_SF_DECAY_CURVES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_TA_P2P_DT_RULES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "TMCS_TA_SIS_STORE_TRUC_RULES",
+    "type": "TABLE"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_LOB",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "DBMS_OUTPUT",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "DBMS_STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "JSON_LIST_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "JSON_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "JSON_PARSER_O",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "JSON_VALUE_ARRAY_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "JSON_VALUE_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "NLS_SESSION_PARAMETERS",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "PLITBLM",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

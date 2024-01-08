@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "DBOBJECTID_SEQUENCE",
+    "type": "SEQUENCE"
+  },
+  {
+    "schema": "",
+    "name": "DUAL",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "MD_META",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

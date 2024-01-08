@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "ANYDATA",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "JSON_VALUE_O",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]
